@@ -1,1 +1,1 @@
-# Weather-forecast-project
+# WEATHER-FORECAST-PROJECT-JS
